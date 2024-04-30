@@ -2533,6 +2533,7 @@
 
 .elementor-42 .elementor-element.elementor-element-7d1f70b {
     --display: flex;
+    justify-content: center;
     --flex-direction: row;
     --container-widget-width: initial;
     --container-widget-height: 100%;
