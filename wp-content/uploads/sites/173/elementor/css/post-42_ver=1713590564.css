@@ -2620,6 +2620,7 @@
 
 .elementor-42 .elementor-element.elementor-element-8977251 {
     --display: flex;
+    justify-content: center;
     --background-transition: 0.3s;
     border-style: solid;
     --border-style: solid;
@@ -2652,6 +2653,7 @@
 
 .elementor-42 .elementor-element.elementor-element-d081407 {
     --display: flex;
+    justify-content: center;
     --background-transition: 0.3s;
     border-style: solid;
     --border-style: solid;
@@ -2674,7 +2676,6 @@
 }
 
 .elementor-42 .elementor-element.elementor-element-eded148 img {
-    filter: brightness(200%) contrast(200%) saturate(0%) blur(0px) hue-rotate(0deg);
     transition-duration: 0.4s;
 }
 
@@ -2708,7 +2709,6 @@
 }
 
 .elementor-42 .elementor-element.elementor-element-3c24f56 img {
-    filter: brightness(200%) contrast(200%) saturate(0%) blur(0px) hue-rotate(0deg);
     transition-duration: 0.4s;
 }
 
