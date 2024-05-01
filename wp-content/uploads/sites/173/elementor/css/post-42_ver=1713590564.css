@@ -3255,6 +3255,7 @@
 .elementor-42 .elementor-element.elementor-element-fd027d2 {
     --display: flex;
     --flex-direction: row;
+    justify-content: center;
     --container-widget-width: initial;
     --container-widget-height: 100%;
     --container-widget-flex-grow: 1;
